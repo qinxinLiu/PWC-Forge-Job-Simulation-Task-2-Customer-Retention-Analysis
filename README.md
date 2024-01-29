@@ -62,4 +62,10 @@ The points he wants to cover:
 
 
 ## 4. Power BI Dashboard
+
+<img width="1159" alt="截屏2024-01-29 17 39 02" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-2-Customer-Retention-Analysis/assets/67852322/03bf4c9e-f3d5-41e1-be43-93682cdc121a">
+<img width="1155" alt="截屏2024-01-29 17 39 13" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-2-Customer-Retention-Analysis/assets/67852322/953e10eb-ab27-4acf-a49f-9ba71925404a">
+<img width="1151" alt="截屏2024-01-29 17 39 22" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-2-Customer-Retention-Analysis/assets/67852322/759cd659-46a0-411c-983e-9bd277889dc8">
+
+
 ## 5. Insights
