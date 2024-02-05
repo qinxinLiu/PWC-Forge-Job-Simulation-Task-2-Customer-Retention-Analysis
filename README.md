@@ -1,5 +1,7 @@
 # PWC Forge Job Simulation Task 2 : Customer Retention-Analysis
 
+link: https://app.powerbi.com/view?r=eyJrIjoiZjQ1NmFkYzAtMjc0OC00MDYyLWE3ZWUtNTYyYmZhMWE0ZmYzIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9
+
 ## 1. Problem Statement
 
 Retention manager from telecom reaches out to you, he wants to better understand data. He hopes you can define proper KPIs and reflect them on the dashboard.
