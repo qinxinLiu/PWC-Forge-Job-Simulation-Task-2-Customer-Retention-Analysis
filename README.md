@@ -88,6 +88,14 @@ Based on the dashboard above, the following conclusion can be drawn:
 - Customers who have signed up for fewer services tend to churn, such as `online security`, `tech support`, and `phone serivices`.
   
 - Many clients experienced problems with `fiber optics`. Fiber optic internet service was used by up to `42%` of the consumers who left.
+  
+## 6. Suggestions
+
+- Month-to-month contracts are a contributing element in the majority of churned clients. The company might persuade them by making offers for yearly contracts.
+
+- Enhancing fiber network services in order to keep clients.
+
+- To attract more clients, phone service needs to be upgraded.
 
 
 
