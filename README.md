@@ -71,3 +71,18 @@ The points he wants to cover:
 
 
 ## 5. Insights
+
+- There are 7,043 customers, and the current churn rate is 26.5%.
+
+- Half of the lost customers had a subscription time of less than one year; the contract type for 88% of churned customers is a Month-to-Month contract.
+  
+- Electronic check and Mailed check have noticeably higher churn rates for InternetService 'DSL'.
+
+- Customers with a Tech Ticket tend to churn.
+
+- Senior citizens exhibit higher customer loyalty.
+  
+- Customers who have signed up for fewer services tend to churn.
+
+
+
